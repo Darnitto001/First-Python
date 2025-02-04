@@ -14,4 +14,4 @@ print(firstname, lastname)
 print(language, "Is a web programming language")
 print(a + b)
 # The sum of 10 and 15 is 25
-print("The sum of a + b = ", a + b)
+print("The sum of",a,"and",b,"is",a + b)
